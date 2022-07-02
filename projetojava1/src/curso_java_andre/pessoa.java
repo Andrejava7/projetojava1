@@ -1,5 +1,7 @@
 package curso_java_andre;
 
+import java.util.Date;
+
 public class pessoa {
 	
 	private String nome;
@@ -7,6 +9,16 @@ public class pessoa {
 	private String sobrenome;
 	
 	private int idade;
+	
+    private Date Nascimento;
+
+	public Date getNascimento() {
+		return Nascimento;
+	}
+
+	public void setNascimento(Date nascimento) {
+		Nascimento = nascimento;
+	}
 
 	public int getIdade() {
 		return idade;
