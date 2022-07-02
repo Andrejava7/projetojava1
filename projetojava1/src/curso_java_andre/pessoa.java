@@ -12,7 +12,7 @@ public class pessoa {
 	
     private Date Nascimento;
     
-    private DateCadastro
+    private DateCadastro;
 
 	public Date getNascimento() {
 		return Nascimento;
