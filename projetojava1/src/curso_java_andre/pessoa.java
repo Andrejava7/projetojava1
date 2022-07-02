@@ -6,8 +6,6 @@ public class pessoa {
 	
 	private String nome;
 	
-	private String nome1;
-	
 	private String sobrenome;
 	
 	private int idade;
