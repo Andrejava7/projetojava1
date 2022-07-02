@@ -11,6 +11,8 @@ public class pessoa {
 	private int idade;
 	
     private Date Nascimento;
+    
+    private Date Nascimento3;
 
 	public Date getNascimento() {
 		return Nascimento;
