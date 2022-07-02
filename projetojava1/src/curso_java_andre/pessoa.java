@@ -11,16 +11,6 @@ public class pessoa {
 	private int idade;
 	
     private Date Nascimento;
-    
-    private Date Nascimento2;
-
-	public Date getNascimento2() {
-		return Nascimento2;
-	}
-
-	public void setNascimento2(Date nascimento2) {
-		Nascimento2 = nascimento2;
-	}
 
 	public Date getNascimento() {
 		return Nascimento;
